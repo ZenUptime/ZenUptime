@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cdn.discordapp.com/attachments/1128394278272499948/1142401891771363338/logo.png" align="center" alt="Cyber Bilişim Hizmetleri" />
+ <img width="100px" src="[https://cdn.discordapp.com/attachments/1128394278272499948/1142401891771363338/logo.png](https://cdn.discordapp.com/attachments/1128394278272499948/1142401891771363338/logo.png?ex=6607e6ab&is=65f571ab&hm=abf8fd6741764157be13683bcafc104b3cc9eebc9fbd5202badaadddd00f2a9c&)" align="center" alt="Cyber Uptime" />
  <h2 align="center">Cyber Bilişim Hizmetleri</h2>
  <p align="center">"Cyber Bilişim ile Kalite ve Güvenlik" Sözümüzü Benimseyerek Hizmete
 Başlamış Olan Sağladığımız Kaliteli Hizmet ile Bütün Müşterilerimize En
