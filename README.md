@@ -5,11 +5,11 @@
 </p>
   <p align="center">
     <a href="https://www.youtube.com/@CyberUptime">
-      <img width="50px" alt="Youtube" src="https://cdn.discordapp.com/attachments/1128394278272499948/1220996639087525958/Background_1.png?ex=6610f8bb&is=65fe83bb&hm=8d306d9a790ad49882ac936f123015da03d362f3845c0acbbdbf2072c01b8174&" />
+      <img width="50px" alt="Youtube" src="https://cdn.discordapp.com/attachments/1128394278272499948/1220996639087525958/Background_1.png?ex=662ca83b&is=661a333b&hm=b48cd9fda4cddcd9d2bd9f47025390c00c00e6a85a0cda3f5bec0f5a7cf0a626&" />
     </a>
     <a href="https://www.cyberuptime.fast-page.org">
-      <img width="50px" alt="Site" src="https://cdn.discordapp.com/attachments/1128394278272499948/1220996638638604318/Background_3.png?ex=6610f8bb&is=65fe83bb&hm=a68571e36e3ef1158e8203b188b9ca217ce4129675770ddaa196ff0de7a77a41&" />
+      <img width="50px" alt="Site" src="https://cdn.discordapp.com/attachments/1128394278272499948/1220996638861037618/Background_2.png?ex=662ca83b&is=661a333b&hm=7f3c48ccb14ffbe57915ce8a33805c8f05d9c54bd7dbfca7cde75113c2b35b26&" />
     </a>
 <a href="https://discord.gg/Yq2bESWSRm">
-      <img width="50px" alt="Discord" src="https://cdn.discordapp.com/attachments/1128394278272499948/1220996638861037618/Background_2.png?ex=6610f8bb&is=65fe83bb&hm=17dbd9294c6834d720a25fc5915685f7f1eccc983cdaabd73fa19eb8b0f48423&" />
+      <img width="50px" alt="Discord" src="https://cdn.discordapp.com/attachments/1128394278272499948/1220996638638604318/Background_3.png?ex=662ca83b&is=661a333b&hm=e161a542e2b48eaec3fcb3957a5a5f28b60b66f553fcad1fccff31722eef6b83&" />
     </a>
