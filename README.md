@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cdn.discordapp.com/attachments/1128394278272499948/1142401891771363338/logo.png?ex=6607e6ab&is=65f571ab&hm=abf8fd6741764157be13683bcafc104b3cc9eebc9fbd5202badaadddd00f2a9c&" align="center" href="https://github.com/CyberUptime/CyberUptime" alt="Cyber Uptime" />
+ <img width="100px" src="https://cdn.discordapp.com/attachments/1128394278272499948/1230611303656194149/iconn.png?ex=6633f316&is=66217e16&hm=09e16e3d2b3626142ee85aea1b98b2970491586506e2806d00232bb9dc589f86&" align="center" href="https://github.com/CyberUptime/CyberUptime" alt="Cyber Uptime" />
  <h2 align="center">Cyber Uptime</h2>
  <p align="center">Cyber Uptime ile projelerinizi hızlı, kolay ve güvenli şekilde 7/24 Uptime edebilirsiniz</p>
 </p>
