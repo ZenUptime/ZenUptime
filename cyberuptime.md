@@ -1,6 +1,6 @@
 <p align="center">
  <img width="800px" src="https://cdn.discordapp.com/attachments/1128394278272499948/1268988642924167330/Background.png?ex=66ae6d45&is=66ad1bc5&hm=d1be0125e4d78bf212e3e1741f0e2ee0eb8873dae0d05bb852a8a4bfc59a6841&" align="center" href="https://github.com/CyberUptime/CyberUptime" alt="Cyber Uptime" />
- <h2 align="center">Cyber Uptime</h2>
+ ---
  <p align="center">Cyber Uptime ile projelerinizi güvenli, hızlı ve kolay şekilde 7/24 Uptime edebilirsiniz</p>
 </p>
   <p align="center">
