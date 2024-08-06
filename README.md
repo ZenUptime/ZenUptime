@@ -18,6 +18,6 @@
   <img src="https://cdn.discordapp.com/attachments/1128394278272499948/1269270563575304312/gityt.png?ex=66af73d4&is=66ae2254&hm=656da5a6a991f878ba46157cb18816bfb03128148a449e19d9439dfd5facfa0d&" width="250" alt="logo"/>
   </a>
   <a href="https://cyberuptime.fast-page.org">
-  <img src="https://cdn.discordapp.com/attachments/1128394278272499948/1269306511239155805/gitweb.png?ex=66af954e&is=66ae43ce&hm=221134310709124312d9bd24c5ca8804b7ae00e6c235e757b4ea480b58b616ef&" width="250" alt="logo"/>
+  <img src="https://cdn.discordapp.com/attachments/1128394278272499948/1269306511239155805/gitweb.png?ex=66b389ce&is=66b2384e&hm=8821bfb5422b7ea2919473f0956238c2c0e36d8b74c8f6759851533f165d55fb&" width="250" alt="logo"/>
   </a>
   </p>
